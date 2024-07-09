@@ -5949,6 +5949,18 @@
 		)
 		(uuid "a28ae924-249b-4c9f-8fc1-4572473b82dc")
 	)
+	(text "Stützkondensatoren am Audio Chip min 1µF besser 10µF"
+		(exclude_from_sim no)
+		(at 162.56 161.29 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "c28c4e8e-9bd4-45f5-b5b8-5719a9129801")
+	)
 	(text "Bus Connector"
 		(exclude_from_sim no)
 		(at 57.404 16.51 0)

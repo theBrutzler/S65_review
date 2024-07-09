@@ -8392,6 +8392,18 @@
 		)
 		(uuid "9f9e1762-3f7e-47ce-92f7-87fabed73b85")
 	)
+	(text "Stützkondensatoren an LCD min 1µF besser 10µF"
+		(exclude_from_sim no)
+		(at 153.67 114.3 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "c3a3ca8b-8acc-4bdc-aee5-636457e7f449")
+	)
 	(text "Address PORT 32@16 \n-> BF20 - BF2F"
 		(exclude_from_sim no)
 		(at 111.252 45.466 0)

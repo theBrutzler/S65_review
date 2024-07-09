@@ -13495,6 +13495,18 @@
 		)
 		(uuid "941e5ae5-03a7-428c-aeb0-29819db84f39")
 	)
+	(text "Stützkondensatoren den LDOs 10µF"
+		(exclude_from_sim no)
+		(at 351.155 217.17 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "e2d6b40f-6442-4fdb-bd07-8bd19d995d92")
+	)
 	(text "Voltage Regulation"
 		(exclude_from_sim no)
 		(at 359.664 249.428 0)

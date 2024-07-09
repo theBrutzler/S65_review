@@ -8927,6 +8927,18 @@
 		)
 		(uuid "11d66311-064a-406e-9679-666d2603aefb")
 	)
+	(text "Stützkondensatoren an MAX Chips min 1µF besser 10µF"
+		(exclude_from_sim no)
+		(at 163.195 367.03 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "47e0b757-6576-4375-a1e7-7e264946cf1a")
+	)
 	(text "Solder Bridges 1-2\n\nACIA1:\nAddress PORT 80@4 \n-> BF50 - BF53\n\nACIA2:\nAddress PORT 84@4\n-> BF54 - BF57"
 		(exclude_from_sim no)
 		(at 223.012 237.236 0)

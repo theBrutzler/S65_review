@@ -8323,6 +8323,18 @@
 		)
 		(uuid "6342a000-fb86-43ba-a2b3-2d5f52e58fff")
 	)
+	(text "Decoding anschauen?"
+		(exclude_from_sim no)
+		(at 149.225 49.53 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "768329c7-d21a-459c-a9fb-1daabfb38678")
+	)
 	(text "Decoupling and Power"
 		(exclude_from_sim no)
 		(at 132.842 148.59 0)
